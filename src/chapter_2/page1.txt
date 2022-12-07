@@ -1,0 +1,6 @@
+
+Why do we need them?
+-	Wrapper classes are used to convert(donusturmek) a primitive into object
+-	It will have behaviour and value at the same time
+-	Also wrapper classes provide useful methods.
+*	Each primitive has a corresponding wrapper class
